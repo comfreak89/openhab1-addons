@@ -10,7 +10,7 @@ It has been tested on:
 * 7390
 * 6360 Cable (v6.04)
 * 7490
-* 7590 (v6.92)
+* 7590 (v6.92, v7.10 partly tested and working)
 
 ## Features
 
